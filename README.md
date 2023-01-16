@@ -1,2 +1,2 @@
-# wxjiao.github.io
+# yywang16.github.io
 Personal website
